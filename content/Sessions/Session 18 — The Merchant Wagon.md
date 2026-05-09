@@ -1,4 +1,4 @@
-# Session 18 — The Merchant Road
+# Session 18 — The Merchant Wagon
 #sessions #player-safe
 
 **Date played:** April 18, 2026
@@ -29,5 +29,3 @@ That's where the session ended.
 *Combat status:* Mid-fight, displacer beasts, Lucian's turn. Willow has been down twice. Luna's bear form depleted. Cyrene is back up. The beasts are hurting but not finished.
 
 *What you're carrying:* The manifest and ledger from the wagon.
-
-*What's waiting in the clearing:* Nobody has searched the female Fey's body yet.

@@ -1,4 +1,4 @@
-# Session 17 — First Day in Silverthread
+# Session 17 — Exploring Silverthread
 #sessions #player-safe
 
 **Date played:** March 21, 2026
