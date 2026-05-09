@@ -8,6 +8,7 @@ Something is wrong with history. Records are changing. Memories don't match. And
 
 ## Browse
 
+- [[Chronicle]] — The full campaign record
 - [[NPCs]] — People you've met
 - [[Locations]] — Places you've been
 - [[Sessions]] — What happened
