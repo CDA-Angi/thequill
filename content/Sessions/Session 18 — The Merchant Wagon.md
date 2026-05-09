@@ -16,7 +16,9 @@ The road out of the city is Feywild-strange in a way that stays just below alarm
 
 The wagon was found further down — one wheel in a ditch, horse gone, harness cut clean. Perri Vansel was dead against the wheel. His guard was dead ten feet away. Willow found a third body in the underbrush: forest leathers, wounds from the same animals that killed the merchant. Clever's examination of the wounds confirmed the pattern — too focused, too deliberate. Luna recognized what it meant: displacer beasts, Feywild predators whose bodies appear to occupy different space than they actually do. Lucian confirmed he'd heard of them. They were sometimes kept by nobles.
 
-Dash spent time on the cargo. Detect Poison found animalistic venom on all three bodies and a faint rose glow from inside the specialty crate — the contents were caustic, not to be touched. Detect Magic found a preservation enchantment on the lining and a faint divination residue from whatever had been stored inside. The crate itself was empty and smelled of something Dash recognized from their merchant family background: a specialty product, small quantities, specific buyers. The manifest didn't match the cargo weight — the discrepancy was deliberate. And tucked separately, a ledger notation in a different hand: *S. — Inkwell — urgent.* An off-record delivery arranged after the manifest was already filed. Cyrene placed it: the Inkwell is in Silverthread's Shadow Market.
+Lucian threw a ten-foot pole to Cyrene so she could open the crate safely. What followed was a brief, undignified wrestling match between several party members over the pole, ending when Lucian Misty Stepped thirty feet away still holding it.
+
+Dash spent time on the cargo. Detect Poison found animalistic venom on all three bodies and a faint rose glow from inside the specialty crate — the contents were caustic, not to be touched. Detect Magic found a preservation enchantment on the lining and a faint divination residue from whatever had been stored inside. The crate itself was empty and smelled of something Dash recognized from their merchant family background: a specialty product, small quantities, specific buyers. The manifest didn't match the cargo weight — the discrepancy was deliberate. And tucked separately, a ledger notation in a different hand: *S. — Inkwell — urgent.* An off-record delivery arranged after the manifest was already filed. Luna remembered: the Inkwell is in Silverthread's Shadow Market, and circled it on the map.
 
 Dash used the stone from the Court of Echoes to read the traces of what had happened. An elf in forest leathers led a pack of four displacer beasts to surround the wagon. He killed the guard. He killed the merchant. The guard wounded him before going down. The beasts turned on their injured handler and finished him.
 
@@ -26,7 +28,7 @@ Before leaving, Dash cast Mending on the broken cart lashings and left the wagon
 
 On the way back, a sound drifted from a clearing near the river — something between a growl and a noise that didn't quite resolve. Four displacer beasts were arranged in a loose circle around a wounded juvenile owlbear lying exhausted on the ground. The beasts weren't attacking. Holding position, coiled and agitated. And inside the circle, between the beasts and the owlbear, a body. Female. Fey. Still clutching something in her hand.
 
-Cyrene engaged first, from the treeline.
+Clever moved up first for a closer look, slipping into the treeline without a sound. Then Cyrene opened fire.
 
 That's where the session ended.
 
