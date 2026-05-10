@@ -12,4 +12,5 @@ Something is wrong with history. Records are changing. Memories don't match. And
 - [[NPCs]] — People you've met
 - [[Locations]] — Places you've been
 - [[Sessions]] — What happened
+- [[Items]] — Things you carry
 - [[Lore]] — What you've learned
