@@ -1,5 +1,9 @@
 @use "./base.scss";
 
+html {
+  font-size: 19px;
+}
+
 // Feywild header flourish
 .page h1:first-of-type {
   position: relative;
